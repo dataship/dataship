@@ -1,6 +1,6 @@
 {
   "name": "dataship",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "description": "Practical numerical analysis in javascript",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "pandas"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository" : {
+       "type" : "git",
+       "url" : "https://github.com/dataship/dataship"
+  }
 }
