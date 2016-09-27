@@ -1,0 +1,16 @@
+{
+  "name": "dataship",
+  "version": "0.8.3",
+  "description": "Practical numerical analysis in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numerical",
+    "analysis",
+    "pandas"
+  ],
+  "author": "",
+  "license": "MIT"
+}
